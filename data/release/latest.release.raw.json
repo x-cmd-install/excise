@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2387789,
       "digest": "sha256:6febcd7f3602d763376afd46b0160c87360a187dc5eeab653739e0767111a856",
-      "download_count": 34,
+      "download_count": 36,
       "created_at": "2026-10-09T05:11:44Z",
       "updated_at": "2026-10-09T05:11:44Z",
       "browser_download_url": "https://github.com/findyourexit/excise/releases/download/v1.4.1/excise-aarch64-apple-darwin-v1.4.1.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 2682717,
       "digest": "sha256:0d2ef6bf6b019da1b446a9570a20f2597d5f6680fd4099b58cb2a4ed763f19ab",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-10-09T05:11:45Z",
       "updated_at": "2026-10-09T05:11:45Z",
       "browser_download_url": "https://github.com/findyourexit/excise/releases/download/v1.4.1/excise-x86_64-pc-windows-msvc-v1.4.1.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 2754735,
       "digest": "sha256:c3647b2dfaf24f6d30dab0e509aebd248784ce7fb104bb6dda7fc7a87d263e59",
-      "download_count": 47,
+      "download_count": 48,
       "created_at": "2026-10-09T05:11:45Z",
       "updated_at": "2026-10-09T05:11:45Z",
       "browser_download_url": "https://github.com/findyourexit/excise/releases/download/v1.4.1/excise-x86_64-unknown-linux-gnu-v1.4.1.tar.gz"
