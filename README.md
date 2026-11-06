@@ -33,7 +33,7 @@ Total: **190,020** lines of code across **468** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.4.1` (2026-10-09)
-- **Last commit**: 2026-10-15
+- **Last commit**: 2026-11-05
 - **Assets in release**: 8
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **190,020** lines of code across **468** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 204 · **Open PRs**: 16 · **Closed issues**: 1 · **Open issues**: 1 · **Commits**: 468
+- **Releases**: 18 · **Merged PRs**: 206 · **Open PRs**: 14 · **Closed issues**: 1 · **Open issues**: 1 · **Commits**: 470
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 2 | 11 | 15 | 0 | 1 | 5 |
-| last60d | 2026-09-06 | 4 | 136 | 16 | 0 | 1 | 156 |
-| 90d | 2026-08-07 | 18 | 204 | 16 | 1 | 1 | 253 |
-| last180d | 2026-05-09 | 18 | 204 | 16 | 1 | 1 | 254 |
-| 360d | 2025-11-10 | 18 | 204 | 16 | 1 | 1 | 257 |
-| last720d | 2024-11-15 | 18 | 204 | 16 | 1 | 1 | 261 |
+| 30d | 2026-10-07 | 2 | 9 | 13 | 0 | 1 | 7 |
+| last60d | 2026-09-07 | 4 | 138 | 14 | 0 | 1 | 158 |
+| 90d | 2026-08-08 | 18 | 206 | 14 | 1 | 1 | 255 |
+| last180d | 2026-05-10 | 18 | 206 | 14 | 1 | 1 | 256 |
+| 360d | 2025-11-11 | 18 | 206 | 14 | 1 | 1 | 259 |
+| last720d | 2024-11-16 | 18 | 206 | 14 | 1 | 1 | 263 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for excise lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T08:05:50Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T08:12:25Z._
