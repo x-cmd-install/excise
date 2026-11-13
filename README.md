@@ -48,12 +48,12 @@ Total: **190,020** lines of code across **468** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 5 | 13 | 0 | 0 | 2 |
-| last60d | 2026-09-13 | 3 | 106 | 14 | 0 | 1 | 128 |
-| 90d | 2026-08-14 | 18 | 206 | 14 | 1 | 1 | 255 |
-| last180d | 2026-05-16 | 18 | 206 | 14 | 1 | 1 | 256 |
-| 360d | 2025-11-17 | 18 | 206 | 14 | 1 | 1 | 259 |
-| last720d | 2024-11-22 | 18 | 206 | 14 | 1 | 1 | 263 |
+| 30d | 2026-10-14 | 0 | 0 | 7 | 0 | 0 | 2 |
+| last60d | 2026-09-14 | 3 | 106 | 14 | 0 | 1 | 128 |
+| 90d | 2026-08-15 | 18 | 206 | 14 | 1 | 1 | 255 |
+| last180d | 2026-05-17 | 18 | 206 | 14 | 1 | 1 | 256 |
+| 360d | 2025-11-18 | 18 | 206 | 14 | 1 | 1 | 259 |
+| last720d | 2024-11-23 | 18 | 206 | 14 | 1 | 1 | 263 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for excise lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T09:03:21Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:32:58Z._
