@@ -14,11 +14,11 @@ x install excise
 
 ## Code insight
 
-Total: **190,020** lines of code across **468** files in the top 5 languages.
+Total: **190,050** lines of code across **468** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 182,977 | 3,178 | 15,781 | 352 |
+| Rust | 183,007 | 3,182 | 15,782 | 352 |
 | Toml | 3,295 | 338 | 623 | 97 |
 | Json | 3,233 | 0 | 0 | 13 |
 | Autoconf | 158 | 7 | 13 | 5 |
@@ -33,7 +33,7 @@ Total: **190,020** lines of code across **468** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.4.1` (2026-10-09)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-16
 - **Assets in release**: 8
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **190,020** lines of code across **468** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 18 · **Merged PRs**: 206 · **Open PRs**: 14 · **Closed issues**: 1 · **Open issues**: 1 · **Commits**: 470
+- **Releases**: 18 · **Merged PRs**: 223 · **Open PRs**: 1 · **Closed issues**: 1 · **Open issues**: 1 · **Commits**: 488
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 7 | 0 | 0 | 2 |
-| last60d | 2026-09-16 | 3 | 102 | 14 | 0 | 1 | 101 |
-| 90d | 2026-08-17 | 18 | 206 | 14 | 1 | 1 | 225 |
-| last180d | 2026-05-19 | 18 | 206 | 14 | 1 | 1 | 256 |
-| 360d | 2025-11-20 | 18 | 206 | 14 | 1 | 1 | 259 |
-| last720d | 2024-11-25 | 18 | 206 | 14 | 1 | 1 | 263 |
+| 30d | 2026-10-17 | 0 | 10 | 1 | 0 | 0 | 20 |
+| last60d | 2026-09-17 | 3 | 119 | 1 | 0 | 1 | 119 |
+| 90d | 2026-08-18 | 18 | 223 | 1 | 1 | 1 | 243 |
+| last180d | 2026-05-20 | 18 | 223 | 1 | 1 | 1 | 274 |
+| 360d | 2025-11-21 | 18 | 223 | 1 | 1 | 1 | 277 |
+| last720d | 2024-11-26 | 18 | 223 | 1 | 1 | 1 | 281 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for excise lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:05:50Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:39:39Z._
